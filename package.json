@@ -1,0 +1,25 @@
+{
+  "name": "first_mean_stack",
+  "version": "1.0.0",
+  "description": "Learning how to build a M(ongodb)E(xpress)A(ngular)N(ode) (MEAN) application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkF704/first_mean_stack.git"
+  },
+  "author": "Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClarkF704/first_mean_stack/issues"
+  },
+  "homepage": "https://github.com/ClarkF704/first_mean_stack#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongojs": "^2.6.0"
+  }
+}
